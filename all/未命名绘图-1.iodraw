@@ -350,7 +350,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RRuoky5MuKzKzxEIZwu9-98" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=2;imageAspect=1;" parent="1" vertex="1">
-          <mxGeometry x="312" y="305" width="382" height="886" as="geometry" />
+          <mxGeometry x="312" y="305" width="608" height="886" as="geometry" />
         </mxCell>
         <mxCell id="CCJkPE4asIp1I-IBRdGr-1" value="&lt;font style=&quot;font-size: 24px;&quot; color=&quot;#ffffff&quot;&gt;&lt;b&gt;ECA&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#330000;" vertex="1" parent="1">
           <mxGeometry x="790" y="860" width="120" height="55" as="geometry" />
