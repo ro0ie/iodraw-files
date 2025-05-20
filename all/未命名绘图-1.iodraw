@@ -107,7 +107,7 @@
           <mxGeometry x="790" y="803" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RRuoky5MuKzKzxEIZwu9-42" value="&lt;h1&gt;Conv&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#061C73;fontColor=#ffffff;strokeColor=#663300;" parent="1" vertex="1">
-          <mxGeometry x="792" y="915" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="915" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RRuoky5MuKzKzxEIZwu9-43" value="&lt;h1&gt;&lt;font color=&quot;#ffffff&quot;&gt;UpSample&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#004724;" parent="1" vertex="1">
           <mxGeometry x="540" y="1051" width="137" height="48" as="geometry" />
